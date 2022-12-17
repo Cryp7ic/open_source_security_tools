@@ -37,7 +37,7 @@
 - **[osquery](https://osquery.io/)** – real-time querying of endpoint data
 - **[Kansa](https://github.com/davehull/Kansa)**[ – PowerShell incident response](https://github.com/davehull/Kansa)
 
-[ **Vulnerability assessment** ](https://github.com/davehull/Kansa)
+**Vulnerability assessment**
 
 - **[OpenVAS](https://www.openvas.org/)** – very popular vulnerability assessment
 - **[ZAProxy](https://www.zaproxy.org/getting-started/)** – web vulnerability scanner by OWASP
